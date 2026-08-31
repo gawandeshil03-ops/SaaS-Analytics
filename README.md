@@ -239,7 +239,7 @@ Developed a three-page interactive Power BI dashboard to monitor business perfor
 
 ## Executive Summary
 
-![Executive Summary](Dashboard_Images/Executive_Summary.png)
+![Executive Summary]([Dashboard_Images/Executive_Summary.png](https://github.com/gawandeshil03-ops/SaaS-Analytics/blob/main/Executive_Summary.png))
 
 ## Customer & Subscription Analysis
 
